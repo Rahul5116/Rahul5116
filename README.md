@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🚀 B.Tech CSE (Cloud Computing & Virtualization) @ UPES (2022-2026)<br><br>☁️ Cloud Enthusiast | Aspiring Cloud/DevOps Engineer<br><br>🌩️ Currently learning AWS and exploring Docker<br>🏆 Completed #100DaysOfCode on LeetCode — proof on my LinkedIn<br>📜 AWS Certified – expanding my cloud knowledge every day<br>🔧 Passionate about building and managing cloud infrastructure, automation, and DevOps workflows
 
 
