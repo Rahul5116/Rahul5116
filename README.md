@@ -1,27 +1,59 @@
-#  About Me:
-🚀 B.Tech CSE (Cloud Computing & Virtualization) @ UPES (2022-2026)<br><br>☁️ Cloud Enthusiast | Aspiring Cloud/DevOps Engineer<br><br>🌩️ Currently learning AWS and exploring Docker<br>🏆 Completed #100DaysOfCode on LeetCode — proof on my LinkedIn<br>📜 AWS Certified – expanding my cloud knowledge every day<br>🔧 Passionate about building and managing cloud infrastructure, automation, and DevOps workflows
+# Hi there, I'm Rahul Jaswal! 👋
 
+🚀 **Aspiring Cloud/DevOps Engineer | Cloud Computing Enthusiast**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahul_jaswal.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/rahul-jaswal-8a8471262) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rahul5116&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rahul5116&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul5116&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rahul5116&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rahul5116&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I'm a **B.Tech Computer Science** student specializing in **Cloud Computing & Virtualization Technology** at **UPES, Dehradun** (2022–2026). I'm passionate about building and managing cloud infrastructure, automating workflows, and continuously learning modern DevOps practices.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rahul5116&icon=2&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌟 About Me
+- 🎓 **B.Tech in CSE (2022–2026)** | UPES, Dehradun
+- ☁️ AWS Certified – expanding my cloud knowledge every day
+- 💻 Completed **#100DaysOfCode** on LeetCode — proof on my LinkedIn
+- 🔧 Exploring **AWS**, **Docker**, and automation tools
+- 🌐 **Location:** UP, India
+
+---
+
+## 🔥 Projects Highlight
+
+### 🔁 Cloud Portfolio Dashboard
+A personal dashboard to track and visualize cloud service usage and deployment metrics.
+
+### 📦 DevOps Pipeline Demo
+A CI/CD pipeline using GitHub Actions, Docker, and AWS EC2 for automated deployments.
+
+### 💬 Streamlit Chatbot App
+A simple chatbot app built using Streamlit, integrating with OpenAI APIs and AWS Lambda.
+
+---
+
+## 💻 Tech Stack
+![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java)
+![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell)
+![Bash](https://img.shields.io/badge/-Bash-121011?style=flat&logo=gnu-bash)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FE4B4B?style=flat&logo=streamlit)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-F05033?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-121011?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
+
+---
+
+## 📊 GitHub Stats
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul5116&show_icons=true&theme=radical)
+![Rahul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahul5116&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul5116&layout=compact&theme=radical)
+
+---
+
+## 📬 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/rahul-jaswal-8a8471262)
+- 📷 [Instagram](https://instagram.com/rahul_jaswal.io)
+- 💻 [LeetCode](https://leetcode.com/u/Q5vl7Lnh9J/)
+- 📧 Email: rahuljaswal.io@gmail.com
+
+> Let's connect, learn, and build something cool together! 🚀
