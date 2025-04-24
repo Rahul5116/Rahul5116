@@ -53,7 +53,7 @@ A simple chatbot app built using Streamlit, integrating with OpenAI APIs and AWS
 ## 📬 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/rahul-jaswal-8a8471262)
 - 📷 [Instagram](https://instagram.com/rahul_jaswal.io)
-- 💻 [LeetCode](https://leetcode.com/u/Q5vl7Lnh9J/)
-- 📧 Email: rahuljaswal.io@gmail.com
+- 💻 [LeetCode](https://leetcode.com/u/jcode126/)
+- 📧 Email: rjaswal126.@gmail.com
 
 > Let's connect, learn, and build something cool together! 🚀
