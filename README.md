@@ -11,7 +11,7 @@ I'm a **B.Tech Computer Science** student specializing in **Cloud Computing & Vi
 - ☁️ AWS Certified – expanding my cloud knowledge every day
 - 💻 Completed **#100DaysOfCode** on LeetCode — proof on my LinkedIn
 - 🔧 Exploring **AWS**, **Docker**, and automation tools
-- 🌐 **Location:** UP, India
+- 🌐 **Location:** HP, India
 
 ---
 
@@ -22,9 +22,6 @@ A personal dashboard to track and visualize cloud service usage and deployment m
 
 ### 📦 DevOps Pipeline Demo
 A CI/CD pipeline using GitHub Actions, Docker, and AWS EC2 for automated deployments.
-
-### 💬 Streamlit Chatbot App
-A simple chatbot app built using Streamlit, integrating with OpenAI APIs and AWS Lambda.
 
 ---
 
